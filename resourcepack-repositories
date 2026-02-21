@@ -1,7 +1,17 @@
 {
   "0": {
-    "name": "Rede Canary - Resourcepack",
+    "name": "Rede Canary - Oficial",
     "repository": "https://github.com/JuliaG4m3s/JuhCanary",
     "archive": "https://github.com/JuliaG4m3s/JuhCanary/raw/refs/heads/main/%C2%A7l%C2%A75Juh%20%C2%A76C%C2%A7ea%C2%A76n%C2%A7ea%C2%A76r%C2%A7ey%C2%A72%5B1.8.9%5D.zip"
+  },
+  "1": {
+    "name": "Ultimate Skyblock",
+    "repository": "https://github.com/neomin-2007/Canary-Launcher-Repository",
+    "archive": "https://github.com/neomin-2007/Canary-Launcher-Repository/raw/refs/heads/main/resourcespack/%C2%A79Ultimate%20Skyblock%20%C2%A78%5Bv1.5%5D.zip"
+  },
+  "2": {
+    "name": "PVP Magma [32X]",
+    "repository": "https://github.com/neomin-2007/Canary-Launcher-Repository",
+    "archive": "https://github.com/neomin-2007/Canary-Launcher-Repository/raw/refs/heads/main/resourcespack/PVP%20Magma%20%5B32x%5D.rar"
   }
 }
